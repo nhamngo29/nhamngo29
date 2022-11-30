@@ -18,6 +18,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nhamngo29&icon=1&color=12)](https://visitcount.itsvg.in)
-</br>
-##Snake eating my contribution graph
 ![snake gif](https://github.com/nhamngo29/nhamngo29/blob/output/github-contribution-grid-snake.gif)
