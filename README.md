@@ -1,36 +1,43 @@
-
-                                                            # Different to special
-<img src="https://gist.githubusercontent.com/obernardovieira/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif" width="100%"/>
-
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nhamngoo.29/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nhamngoo.29/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nhamngoo29/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nhamngoo29) 
-
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=nhamngo29&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nhamngo29&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nhamngo29&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### Hi there, I'm Nham Ngo 👋
 
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://raw.githubusercontent.com/nhamngo29/snk/output/github-contribution-grid-snake-dark.svg
-    "
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://raw.githubusercontent.com/nhamngo29/snk/output/github-contribution-grid-snake.svg
-    "
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/nhamngo29/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<br />
+
+## I'm an enthusiastic, dynamic, passionate, and creative programmer.!
+
+- 🔭 I'm a student at HUIT (Ho Chi Minh City University of Industry and Trade)
+- 🌱 I’m currently learning everything 😂
+- 👯 I'm looking to collaborate with other content creators or companies
+- 🎭 Fun fact: I love Fitness🏋️‍♂️ / Swimming🏊‍♂️ / Hiking🧗‍♂️ / playing Football⚽ / and Discovery🌍
+  <br />
+  <br />
+## Tôi là một lập trình viên nhiệt tình, năng động, đam mê và sáng tạo.!
+
+- 🔭 Tôi đang là sinh viên HUIT (Trường Đại học Công Thương TP.Hồ Chí Minh)
+- 🌱 Tôi hiện đang học mọi thứ 😂
+- 👯 Tôi đang muốn cộng tác với những người sáng tạo nội dung hoặc công ty khác
+- 🎭 Sở thích: Tôi yêu Thể hình🏋️‍♂️ / Bơi lội🏊‍♂️ / Đi bộ đường dài🧗‍♂️ / chơi Bóng đá⚽ / và Khám phá🌍
+   <br />
+### Connect with me:
+
+<a target="_blank" href="https://tinyurl.com/nhamngoo"><img align="left" alt="aljagne.com" width="22px" src="https://simpleicons.vercel.app/webflow/fff" /></a>
+<a target="_blank" href="https://twitter.com/nhamngoo29"><img align="left" alt="aljagne | Twitter" width="22px" src="https://simpleicons.vercel.app/twitter/fff" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/nhamngoo29/"><img align="left" alt="aljagne | LinkedIn" width="22px" src="https://simpleicons.vercel.app/linkedin/fff" /></a>
+<a target="_blank" href="https://www.instagram.com/nhamngoo.29/"><img align="left" alt="aljagne | Instagram" width="22px" src="https://simpleicons.vercel.app/instagram/fff" /></a>
+<a target="_blank" href="https://discordapp.com/users/.tuine"><img align="left" alt="aljagne | Discord" width="22px" src="https://simpleicons.vercel.app/discord/fff" /></a>
+<a target="_blank" href="https://www.facebook.com/nhamngoo.29/"><img align="left" alt="aljagne | Discord" width="22px" src="https://simpleicons.vercel.app/facebook/fff" /></a>
+<br /> 
+
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=cs,c,cpp,css,dotnet,flutter,eclipse,firebase,github,html,ai,java,js,jquery,php,postman,py,vscode)](https://skillicons.dev)
+
+---
+  <div align="center">
+    <h2>GitHub Profile Stats 📊</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=nhamngo29&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide_border=true" height="175px">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhamngo29&show_icons=true&hide_border=true&theme=dark" height="175px">
+<!--     <h2>GitHub Trophies <img src="https://cdn.discordapp.com/emojis/866705355684577290.png?v=1" width="30px"></h2>
+    <img src="https://github-profile-trophy.vercel.app/?username=aljagne&theme=onedark&no-frame=true&no-bg=true&theme=discord"> -->
+</div>
+  
+ ---
