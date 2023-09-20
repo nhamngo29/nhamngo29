@@ -41,9 +41,3 @@
 </div>
   
  ---
-  <div align="center">
-   <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/nhamngo29/snk/output/github-contribution-grid-snake.svg"
-    />
-  </div>
