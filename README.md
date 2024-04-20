@@ -26,11 +26,10 @@
 <a target="_blank" href="https://www.instagram.com/nhamngoo.29/"><img align="left" alt="aljagne | Instagram" width="22px" src="https://simpleicons.vercel.app/instagram/fff" /></a>
 <a target="_blank" href="https://discordapp.com/users/.tuine"><img align="left" alt="aljagne | Discord" width="22px" src="https://simpleicons.vercel.app/discord/fff" /></a>
 <a target="_blank" href="https://www.facebook.com/nhamngoo.29/"><img align="left" alt="aljagne | Discord" width="22px" src="https://simpleicons.vercel.app/facebook/fff" /></a>
-<a target="_blank" href="https://www.facebook.com/nhamngoo.29/"><img align="left" alt="aljagne | Discord" width="22px" src="https://simpleicons.vercel.app/redis/fff" /></a>
 <br /> 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=cs,c,cpp,css,dotnet,flutter,eclipse,firebase,github,html,ai,java,js,jquery,php,postman,py,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,c,cpp,css,dotnet,flutter,eclipse,firebase,github,html,ai,java,js,jquery,php,postman,py,vscode,visualstudio,redis,mongodb)](https://skillicons.dev)
 
 ---
   <div align="center">
