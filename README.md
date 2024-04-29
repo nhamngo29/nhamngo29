@@ -29,7 +29,7 @@
 <br /> 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=cs,c,cpp,css,dotnet,flutter,eclipse,firebase,github,html,ai,java,js,jquery,php,postman,py,vscode,visualstudio,redis,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,c,cpp,css,dotnet,flutter,eclipse,firebase,github,html,ai,java,js,jquery,bootstrap,postman,py,vscode,visualstudio,redis,elasticsearch,mongodb,postgres,androidstudio)](https://skillicons.dev)
 
 ---
   <div align="center">
