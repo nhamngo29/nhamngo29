@@ -21,7 +21,6 @@
 ### Connect with me:
 
 <a target="_blank" href="https://tinyurl.com/nhamngoo"><img align="left" alt="aljagne.com" width="22px" src="https://simpleicons.vercel.app/webflow/fff" /></a>
-<a target="_blank" href="https://twitter.com/nhamngoo29"><img align="left" alt="aljagne | Twitter" width="22px" src="https://simpleicons.vercel.app/twitter/fff" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/nhamngoo29/"><img align="left" alt="aljagne | LinkedIn" width="22px" src="https://simpleicons.vercel.app/linkedin/fff" /></a>
 <a target="_blank" href="https://www.instagram.com/nhamngoo.29/"><img align="left" alt="aljagne | Instagram" width="22px" src="https://simpleicons.vercel.app/instagram/fff" /></a>
 <a target="_blank" href="https://discordapp.com/users/.tuine"><img align="left" alt="aljagne | Discord" width="22px" src="https://simpleicons.vercel.app/discord/fff" /></a>
@@ -29,7 +28,7 @@
 <br /> 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=cs,js,java,c,cpp,css,html,dotnet,eclipse,vscode,visualstudio,github,ai,jquery,bootstrap,postman,py,redis,elasticsearch,mongodb,mysql,postgres,sqlite,firebase,postgres,androidstudio,figma,postman,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,js,java,c,cpp,javascript,typescript,css,scss,html,react,dotnet,eclipse,vscode,visualstudio,github,ai,jquery,materialui,tailwind,bootstrap,postman,py,redis,elasticsearch,mongodb,mysql,postgres,sqlite,firebase,postgres,regex,androidstudio,figma,postman,selenium)](https://skillicons.dev)
 
 ---
   <div align="center">
