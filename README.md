@@ -28,7 +28,7 @@
 <br /> 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=cs,js,java,c,cpp,javascript,typescript,css,scss,html,react,dotnet,eclipse,vscode,visualstudio,github,ai,jquery,materialui,tailwind,bootstrap,postman,py,redis,elasticsearch,mongodb,mysql,postgres,sqlite,firebase,postgres,regex,androidstudio,figma,postman,selenium)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,c,cpp,javascript,typescript,css,scss,html,react,dotnet,eclipse,vscode,visualstudio,github,ai,jquery,materialui,tailwind,bootstrap,postman,py,redis,elasticsearch,mongodb,mysql,postgres,sqlite,firebase,postgres,regex,androidstudio,figma,postman,selenium)](https://skillicons.dev)
 
 ---
   <div align="center">
