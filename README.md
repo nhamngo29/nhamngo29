@@ -21,7 +21,6 @@
 ### Connect with me:
 
 <a target="_blank" href="https://tinyurl.com/nhamngoo"><img align="left" alt="aljagne.com" width="22px" src="https://simpleicons.vercel.app/webflow/fff" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/nhamngoo29/"><img align="left" alt="aljagne | LinkedIn" width="22px" src="https://simpleicons.vercel.app/linkedin/fff" /></a>
 <a target="_blank" href="https://www.instagram.com/nhamngoo.29/"><img align="left" alt="aljagne | Instagram" width="22px" src="https://simpleicons.vercel.app/instagram/fff" /></a>
 <a target="_blank" href="https://discordapp.com/users/.tuine"><img align="left" alt="aljagne | Discord" width="22px" src="https://simpleicons.vercel.app/discord/fff" /></a>
 <a target="_blank" href="https://www.facebook.com/nhamngoo.29/"><img align="left" alt="aljagne | Discord" width="22px" src="https://simpleicons.vercel.app/facebook/fff" /></a>
