@@ -11,13 +11,6 @@
 - 🎭 Fun fact: I love Fitness🏋️‍♂️ / Swimming🏊‍♂️ / Hiking🧗‍♂️ / playing Football⚽ / and Discovery🌍
   <br />
   <br />
-## Tôi là một lập trình viên nhiệt tình, năng động, đam mê và sáng tạo.!
-
-- 🔭 Tôi đang là sinh viên HUIT (Trường Đại học Công Thương TP.Hồ Chí Minh)
-- 🌱 Tôi hiện đang học mọi thứ 😂
-- 👯 Tôi đang muốn cộng tác với những người sáng tạo nội dung hoặc công ty khác
-- 🎭 Sở thích: Tôi yêu Thể hình🏋️‍♂️ / Bơi lội🏊‍♂️ / Đi bộ đường dài🧗‍♂️ / chơi Bóng đá⚽ / và Khám phá🌍
-   <br />
 ### Connect with me:
 
 <a target="_blank" href="https://tinyurl.com/nhamngoo"><img align="left" alt="aljagne.com" width="22px" src="https://simpleicons.vercel.app/webflow/fff" /></a>
